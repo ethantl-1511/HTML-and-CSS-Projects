@@ -40,3 +40,13 @@ html {
     border-radius: 5px;
     padding: 10px;
 }
+
+/* Form Modifications */
+.rsvp {
+    width: 50%;
+    margin: 2px auto;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 1%;
+}
